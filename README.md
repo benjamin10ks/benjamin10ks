@@ -1,4 +1,4 @@
-- Brendan
+- Brendan K
 - MSU
 - Learning
 
