@@ -1,4 +1,7 @@
-- Brendan K
-- MSU
-- Learning
-
+- Montana State
+- G.O.A.T
+- G - Golang
+- O -
+- A - Sniper monkey
+- T -
+- Lives inside of a Docker container
